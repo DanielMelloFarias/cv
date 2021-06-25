@@ -5,6 +5,10 @@
 		left: 20px;
 	}
 
+	.navbar-toggler{
+		height: 80px;		
+	}
+
 	.wall-of-text h3 {
 		font-size: 7px;
 		line-height: 12px;
